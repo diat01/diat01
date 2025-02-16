@@ -29,6 +29,7 @@
 <a href="https://www.jetbrains.com/go" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="goland" width="40" height="40"/></a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
 <a href="https://grpc.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="40"/></a>
+<a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="apachekafka" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://lumen.laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lumen/lumen-original.svg" alt="lumen" width="40" height="40"/></a>
